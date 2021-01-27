@@ -1,0 +1,11 @@
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cuadrado.resources
