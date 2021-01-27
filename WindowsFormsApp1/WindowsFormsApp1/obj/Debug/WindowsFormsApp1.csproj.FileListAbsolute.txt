@@ -9,3 +9,10 @@ C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsForm
 C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cuadrado.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Triangulo.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rectangulo.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Circulo.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pentagono.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rombo.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Romboide.resources
+C:\Users\Joan\source\repos\JoanJuan10\T21_Unit_Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Trapecio.resources
